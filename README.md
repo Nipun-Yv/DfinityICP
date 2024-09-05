@@ -12,7 +12,7 @@ https://nodejs.org/en/ <br/>
 <br/>
 **DFX_VERSION=0.9.3 sh -ci "$(curl -fsSL https://sdk.dfinity.org/install.sh)")**
 <br/>
-(click on proceed with installation and wait dfinity logo)
+(click on proceed with installation and wait for the dfinity logo)
 <br/>
 **Clone the Repository**
 <br/>
