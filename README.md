@@ -1,7 +1,7 @@
 **Local Deployment Instructions**
 **Node**
 <br/>
-1)Go to the Node website and download the Long Term Support version of node (left side button should say something like 16.x.x LTS:
+1)Go to the Node website and download the Long Term Support version of node (left side button should say something like 16.x.x LTS or above:
 https://nodejs.org/en/ <br/>
 
 
