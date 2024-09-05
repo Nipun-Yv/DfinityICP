@@ -2,11 +2,13 @@
 **Node**
 1)Go to the Node website and download the Long Term Support version of node (left side button should say something like 16.x.x LTS:
 https://nodejs.org/en/
+\n
 
 **DFX**
 2)Open up your Terminal app (In your applications folder). Or just search for it with spotlight.
 3)Copy the following command and paste it into your terminal
 DFX_VERSION=0.9.3 sh -ci "$(curl -fsSL https://sdk.dfinity.org/install.sh)"
+\n
 
 **Clone the Repository**
 4) Navigate to the repo using the terminal/command line and run npm i (keep in mind that the package.json does have dated modules, do not run npm audit fix)
