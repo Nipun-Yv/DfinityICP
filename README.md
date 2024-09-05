@@ -20,7 +20,7 @@ sudo DFX_VERSION=0.11.2 sh -ci "$(curl -fsSL https://sdk.dfinity.org/install.sh)
 <br/>
 **Clone the Repository**
 <br/>
-4) Navigate to the repo using the terminal/command line and run npm i (keep in mind that the package.json does have dated modules, do not run npm audit fix)
+4) Navigate to the repo using the terminal and run npm i (keep in mind that the package.json does have dated modules, do not run npm audit fix)
 <br/>
 5)  Split the terminal at this position
 <br/>
