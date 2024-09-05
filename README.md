@@ -1,3 +1,7 @@
+**Smart Contract Candid UI Interaction Link**<br/>
+https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.ic0.app/?id=7x4z2-naaaa-aaaap-qhwnq-cai
+<br/>
+This will let you interract with the canister(Smart Contract)<br/>
 **Local Deployment Instructions**
 **Node**
 <br/>
@@ -10,7 +14,7 @@ https://nodejs.org/en/ <br/>
 <br/>
 3)Copy the following command and paste it into your terminal
 <br/>
-**DFX_VERSION=0.11.2 sh -ci "$(curl -fsSL https://sdk.dfinity.org/install.sh)")**
+** sudo DFX_VERSION=0.11.2 sh -ci "$(curl -fsSL https://sdk.dfinity.org/install.sh)")**
 <br/>
 (click on proceed with installation and wait for the dfinity logo)
 <br/>
